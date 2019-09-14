@@ -13,10 +13,4 @@ h5py
 ipykernel
 bokeh
 pickleshare
-unrar
-torch
-torchvision
-rarfile
-pyunpack
-patool
-d2lmf
+
