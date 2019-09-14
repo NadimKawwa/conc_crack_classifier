@@ -16,3 +16,6 @@ pickleshare
 unrar
 torch
 torchvision
+rarfile
+pyunpack
+patool
