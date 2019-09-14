@@ -1,0 +1,5 @@
+Cite this dataset
+Özgenel, Çaglar Firat (2019), “Concrete Crack Images for Classification”, Mendeley Data, v2
+http://dx.doi.org/10.17632/5y9wdsg2zt.2
+
+SDNET2018: An annotated image dataset for non-contact concrete crack detection using deep convolutional neural networks
