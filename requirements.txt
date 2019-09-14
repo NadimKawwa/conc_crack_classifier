@@ -19,3 +19,4 @@ torchvision
 rarfile
 pyunpack
 patool
+d2lmf
