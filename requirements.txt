@@ -13,5 +13,6 @@ h5py
 ipykernel
 bokeh
 pickleshare
-torch vision
+torchvision==0.2.1
 unrar
+torch==0.4.0
