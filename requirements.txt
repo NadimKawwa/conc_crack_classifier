@@ -16,3 +16,4 @@ pickleshare
 torchvision==0.2.1
 unrar
 torch==0.4.0
+https://download.pytorch.org/whl/cu80/torch_stable.html # CUDA 8.0 build
